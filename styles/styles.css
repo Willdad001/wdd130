@@ -22,6 +22,28 @@ aside img {
     height: auto;
 }
 
+aside img.state-flag {
+    width: 260px;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside img.country-flag {
+    width: 260px;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 4px;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 p {
     padding: 0;
 }
