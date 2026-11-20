@@ -55,7 +55,7 @@ header nav {
 }
 
 header nav a {
-    color: #ffffff;
+    color: var(--accent2-color);
     text-decoration: none;
     padding: 0.5rem 0.75rem;
     font-weight: bold;
@@ -64,7 +64,7 @@ header nav a {
 
 header nav a:hover {
     background-color: var(--secondary-color);
-    color: #ffffff;
+    color: var(--accent2-color);
 }
 
 h1,
